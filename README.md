@@ -10,4 +10,9 @@ Este repositorio contiene los archivos necesarios para realizar una lista de asi
   `pip install requeriments.txt`
 
 - Ejecutar el archivo _detec_face_mysql.py_ para detectar y registrar la asistencia en la base de datos
-- Ejecutar el archivo _pdf_registro.py_ para crear el pdf con la lista de asistencia 
+- Ejecutar el archivo _pdf_registro.py_ para crear el pdf con la lista de asistencia
+
+# Ejemplo de detección
+
+![imagen](https://github.com/raymundosoto/Lista-de-asistencia-con-reconocimiento-facial-usando-Python/assets/72757419/ff634e41-aa16-4569-8466-29afb28cccc0)
+
