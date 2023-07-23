@@ -5,5 +5,9 @@ Este repositorio contiene los archivos necesarios para realizar una lista de asi
 
 - Se recomienda crear un ambiente virtual y activarlo para correr los códigos
 - Clonar el repositorio en una carpeta
-- Instalar las bibliotecas usando el archivos __requeriments.txt__
-   `pip install requeriments.txt`
+- Instalar las bibliotecas usando el archivos _requeriments.txt_
+
+  `pip install requeriments.txt`
+
+  - Ejecutar el archivo _detec_face_mysql.py_ para detectar y registrar la asistencia en la base de datos
+  - Ejecutar el archivo _pdf_registro.py_ para crear el pdf con la lista de asistencia 
