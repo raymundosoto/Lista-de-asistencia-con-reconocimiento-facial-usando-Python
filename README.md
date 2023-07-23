@@ -6,5 +6,4 @@ Este repositorio contiene los archivos necesarios para realizar una lista de asi
 - Se recomienda crear un ambiente virtual y activarlo para correr los códigos
 - Clonar el repositorio en una carpeta
 - Instalar las bibliotecas usando el archivos __requeriments.txt__
-
- `pip install requeriments.txt`
+   `pip install requeriments.txt`
