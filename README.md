@@ -16,3 +16,8 @@ Este repositorio contiene los archivos necesarios para realizar una lista de asi
 
 ![imagen](https://github.com/raymundosoto/Lista-de-asistencia-con-reconocimiento-facial-usando-Python/assets/72757419/ff634e41-aa16-4569-8466-29afb28cccc0)
 
+# Archivo pdf de salida
+
+![imagen](https://github.com/raymundosoto/Lista-de-asistencia-con-reconocimiento-facial-usando-Python/assets/72757419/486fac54-a3c3-4102-b521-efaad84c33f0)
+
+
