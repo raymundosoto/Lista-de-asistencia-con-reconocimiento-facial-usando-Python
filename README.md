@@ -1,0 +1,2 @@
+# Lista-de-asistencia-con-reconocimiento-facial-usando-Python
+Este repositorio contiene los archivos necesarios para realizar una lista de asistencia usando el reconocimiento facial, el programa genera una base de datos donde se registra la fecha, hora y nombre del rostro reconocido. Los datos son guardados en una base de datos y posteriormente se crea un archivo pdf con los datos de la asistencia.  pdf
